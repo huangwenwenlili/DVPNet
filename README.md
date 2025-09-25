@@ -5,8 +5,8 @@ Ye Deng, Member, IEEE, Wenli Huang, ZiXin Tang and Jiang Duan, "Dual-view Prompt
 <!-- <!-- #### 🔥🔥🔥 News -->
 
 - **2025-08-25:** Readme and config are released. 🎊🎊🎊 
-- pending 1:** Network. 🎊🎊🎊 
-- pending 2:** Network. 🎊🎊🎊 
+- **2025-09-25:** ** DVPNet Network. 🎊🎊🎊 
+- **2025-09-25:** ** pretrain-models. 🎊🎊🎊 
 
 ---
 
@@ -74,11 +74,11 @@ Download training and testing datasets and put them into the corresponding folde
 
 ## <a name="models"></a>📦 Models
 
-[Rice1 pretrained model Baidu Disk](https://pan.baidu.com/XXX)
+[Rice1 pretrained model Baidu Disk](https://pan.baidu.com/s/1fJgntXjA1NIDtcIBXJwEXA?pwd=w5ch)
 
-[Rice2 pretrained  model Baidu Disk](https://pan.baidu.com/XXX)
+[Rice2 pretrained  model Baidu Disk](https://pan.baidu.com/s/1fJgntXjA1NIDtcIBXJwEXA?pwd=w5ch)
 
-[T-CLOUD pretrained model Baidu Disk](https://pan.baidu.com/s/XXXX)
+[T-CLOUD pretrained model Baidu Disk](https://pan.baidu.com/s/1fJgntXjA1NIDtcIBXJwEXA?pwd=w5ch)
 
 
 ## <a name="training"></a>🔧 Training
@@ -104,7 +104,7 @@ Download training and testing datasets and put them into the corresponding folde
   ```
 
 ## <a name="testing"></a>🔨 Testing
-- Download the pre-trained [models](https://pan.baidu.com/s/1l7qnrCNAB3ukGENJYA35SA?pwd=9eqw) and place them in `./experiments` directory.
+- Download the pre-trained [models](https://pan.baidu.com/s/1fJgntXjA1NIDtcIBXJwEXA?pwd=w5ch) and place them in `./experiments` directory.
 
 - Use RICE1, RICE2, and T-CLOUD testing datasets.
 
@@ -165,7 +165,7 @@ If you find the code helpful in your research or work, please cite the following
 ```
 @ARTICLE{wu2024cr,
 	author={Ye Deng, Wenli Huang, ZiXin Tang and Jiang Duan},
-	journal={IEEE Transactions on XXX}, 
+	journal={IEEE Transactions on Geoscience and Remote Sensing}, 
 	title={Dual-view Prompting for Cloud Removal}, 
 	year={2025},
 	volume={62},
